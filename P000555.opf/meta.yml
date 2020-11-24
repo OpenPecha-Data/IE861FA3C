@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03666
   title: སྡོམ་གསུམ་རྣམ་བཤད་ཐར་ལམ་གསལ་བའི་མེ་ལོང་
-  volume: ''
+  volume:
+    478f1a91941e4f69acc03bb71616ad16:
+      image_group_id: I00KG03743
+      title: Volume 1 of sdom gsum rnam bzhad thar lam gsal ba'i me long
+      volume_number: 1
+      total_pages: 264
   author: ''
+ebook_metadata:
+  title: སྡོམ་གསུམ་རྣམ་བཤད་ཐར་ལམ་གསལ་བའི་མེ་ལོང་
+  author: ''
+  sku: P000555
+  cover: cover.jpg
+  layers:
+  - pagination
